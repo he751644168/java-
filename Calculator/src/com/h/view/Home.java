@@ -57,7 +57,7 @@ public class Home {
 		});
 		btnNewButton.setBounds(28, 97, 59, 43);
 		frame.getContentPane().add(btnNewButton);
-		btnX = new JButton("AC");
+		btnX = new JButton("Del");
 		btnX.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				//删除最后的字符并且做有效性判断
