@@ -31,3 +31,6 @@ management:
 
 spring:
   profiles: test
+ 
+server:
+  port: 700
